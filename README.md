@@ -1,41 +1,48 @@
 # HUFFMAN COMPRESSION AND DECOMPRESSION USING SECURITY AUTHENTICATION
 
-An advanced, high-performance lossless data authentication and optimization project developed for the Design and Analysis of Algorithms (DAA) curriculum. This system features a custom variable-length character encoding engine wrapped inside a streamlined Streamlit visual dashboard.
+An advanced, high-performance lossless data authentication and optimization project developed for the Design and Analysis of Algorithms (DAA) curriculum. This system features a custom variable-length character encoding engine, core command-line utility tools, and an interactive Streamlit graphical dashboard.
 
 ---
 
-## Key Features
+## Core Technologies and Implementation Language
 
-- Optimal Prefix Coding Engine: Implements a greedy algorithmic approach utilizing a binary Min-Heap data structure to dynamically assign variable-length paths based on character frequency.
-- High-Impact Visualization Dashboard: Built using Streamlit, Plotly, and Pandas to deliver real-time data analysis, frequency charts, and interactive compression metrics.
-- Secure Binary Serialization: Packages compression trees and encrypted structures safely into a specialized .huff binary schema integrated with JSON-based metadata headers.
-- Bit-Level Integrity Verification: Employs precise recovery validation to ensure 100% accurate, lossless reconstruction of compressed data payloads.
+The entire project architecture is engineered using Python 3. This implementation leveraging built-in memory management paradigms, abstract data structures, and optimized object manipulation to achieve high-performance data processing without external lower-level binary dependencies.
 
 ---
 
-## Technical Architecture and Metrics
+## Compression and Decompression Engine Mechanics
 
-The compression algorithm fundamentally optimizes standard data structures, achieving localized payload reductions between 40% to 55% depending on character entropy.
+The backend architecture processes payloads via a deterministic, two-pass greedy optimization sequence:
 
-| Module Components | Core Responsibility | Technologies Used |
-| :--- | :--- | :--- |
-| Algorithmic Backend | Greedy frequency distribution and tree parsing | Python 3, Min-Heaps |
-| Data Analytics | Dynamic file structure tracking and mapping | Pandas, NumPy |
-| Visual Interface | Real-time compression visualizer charts | Streamlit, Plotly |
-| Storage Layer | Secure, structured recovery checkpoints | .huff Binary Schema |
+- Compression Engine: Evaluates the raw input string to construct a precise character-frequency distribution. These frequencies are mapped into a binary Min-Heap structure to iteratively assemble a Huffman tree, assigning the shortest optimal prefix-free bit-strings to high-frequency characters. The final output is serialized alongside a JSON-formatted structural metadata header.
+- Decompression Engine: Reconstructs the exact Huffman tree by reading the metadata headers embedded within the serialized storage payload. It parses the binary stream bit-by-bit from the root node downward, mapping the variable-length codes back to their original 8-bit characters with zero loss of data integrity.
+
+---
+
+## Dashboard Visualizations and Analytics
+
+The front-end user interface utilizes dynamic data streaming powered by Pandas and Plotly to generate real-time metrics, including:
+
+- Character Frequency Distribution Plots: Interactive bar charts visualizing individual character counts to illustrate why specific node weight assignments occur.
+- Bit-Allocation Comparisons: Side-by-side analytical data visualizations contrasting standard 8-bit fixed character spacing against custom variable-length Huffman bit distributions.
+- Performance and Metrics Dashboards: Real-time calculation graphs tracking file size reductions, localized space savings percentages, and precise compression ratio matrices.
 
 ---
 
 ## Project File Structure
 
-- huffman_gui.py: The main execution script powering the graphical user interface, stream charts, and data logic panels.
-- auth_secure.huff: The production-grade binary module managing secure node storage and file integrity tracking.
+The workspace contains both the production-grade visual application components and the foundational standalone execution scripts:
+
+- huffman_gui.py: The primary modern user interface file containing the Streamlit framework, interactive configuration modules, and visualization logic.
+- auth_secure.huff: The secure binary schema module responsible for system integrity checks, tree serialization, and validation tracking.
+- huffman.py: The original independent CLI script engineered to handle file-to-file binary compression without relying on a graphical layout.
+- huffman 3.py: The foundational command-line script engineered to read, validate, and restore compressed payloads back to standard text files.
 
 ---
 
 ## Local Setup and Execution
 
-Since this app operates completely independently of strict workspace constraints, you can launch the dashboard using an absolute path directly from your terminal:
+To run the interactive data dashboard application, execute the following command using the absolute directory target inside your terminal:
 
 ```powershell
 streamlit run "c:\Users\Seenu\Downloads\DAA huffman\huffman_gui.py"
