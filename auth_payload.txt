@@ -1,0 +1,301 @@
+{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}{"audit_logs": [
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "prof_daa", "session_token": "AUTH_TOKEN_4f8e139c2a", "role": "Evaluator", "status": "AUTHORIZED"},
+  {"user_id": "guest_user", "session_token": "AUTH_TOKEN_none", "role": "Guest", "status": "DENIED"},
+  {"user_id": "seenu_99", "session_token": "AUTH_TOKEN_7c1a93e82b", "role": "RootAdmin", "status": "AUTHORIZED"},
+  {"user_id": "unknown_sys", "session_token": "ERR_FAIL_401", "role": "Malicious", "status": "DENIED"}
+]}
