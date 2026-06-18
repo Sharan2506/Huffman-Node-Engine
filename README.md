@@ -2,7 +2,7 @@
 
 An advanced, high-performance lossless data authentication and optimization project developed for the Design and Analysis of Algorithms (DAA) curriculum. This system features a custom variable-length character encoding engine, core command-line utility tools, and an interactive Streamlit graphical dashboard.
 
----
+----
 
 ## Core Technologies and Implementation Language
 
